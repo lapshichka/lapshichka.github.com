@@ -1,1 +1,1 @@
-# lapshichka.github.com
+# lapshichka.github.io
