@@ -1,0 +1,150 @@
+
+body {
+	font-family: Arial;
+	background-image: linear-gradient(#ffffff, #abbaab);
+}
+
+.menu__link{
+	text-decoration: none;
+	color: lightslategrey;
+	font-size: 13px;
+	text-transform: uppercase;
+	margin-right: 40px;
+	transition: 0.2s;
+	padding: 10px;
+}
+
+.menu__link:hover{
+	background-color: white;
+	color: lightpink;
+}
+
+nav{
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	background: white;
+	padding: 15px 35px;
+	text-align: center;
+}
+
+
+img{
+	border-radius: 5px;
+}
+
+.picture{
+	text-align: center;
+	margin-bottom: 60px;
+	margin-top: 60px;
+}
+
+h1{
+	text-align: center;
+	font-size: 60px;
+	line-height: 1.5;
+	margin-bottom: 50px;
+}
+
+.text{
+	text-align: left;
+	font-size: 16px;
+	width: 800px;
+	margin: 0 auto;
+	color: lightslategray;
+	line-height: 2;
+	margin-bottom: 40px;
+}
+
+h3{
+	text-align: left;
+	width: 800px;
+	margin: 0 auto;
+	line-height: 2;
+	margin-bottom: 15px;
+	font-size: 20px;
+}
+
+.picture_first{
+	text-align: center;
+}
+
+div{
+	display: flex;
+	flex-wrap: nowrap;
+	margin: 0 auto;
+	max-width: 880px;
+}
+.first_text{
+	text-align: left;
+	font-size: 16px;
+	width: 350px;
+	color: lightslategray;
+	line-height: 2;
+	margin-bottom: 40px;
+	margin: 0 auto;
+
+}
+
+.gg{
+	margin: 0 auto;
+}
+
+}
+
+.photo{
+	border-radius: 100%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.text_for_photos{
+	font-size: 16px;
+	line-height: 2;
+	width: 800px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.second_text{
+	font-size: 16px;
+	width: 350px;
+	margin: 0 355px;
+	color: lightslategray;
+	line-height: 2;
+}
+
+.news{
+	border: 1px lightpink;
+	background: lightpink;
+	padding: 5px;
+	width: 65px;
+	margin: 0 auto;
+}
+
+.date{
+	text-align: center;
+}
+/*div{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: url(https://n1s1.hsmedia.ru/b8/82/5d/b8825d119b96cd6195f937b40cee77b4/728x504_1_99396eea9dacbe53e68fe7089cd20e3a@1200x831_0xac120003_19189325441604046771.jpg);
+}*/
+
+/*.round{
+	width: 350px;
+	height: 350px;
+	border-radius: 50%; 
+	*/
+}
+
+/*.menu {
+	width: 30%;
+	border: flex;
+	background: #4499dd;
+	margin: 0px auto;
+}*/
+
+
+
